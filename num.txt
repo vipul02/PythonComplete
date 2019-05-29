@@ -1,0 +1,11 @@
+1
+2
+3
+50.0
+-4.0
+That temperature doesn't make sense!
+212.0
+50.0
+-4.0
+That temperature doesn't make sense!
+212.0
