@@ -32,7 +32,5 @@ try:
 	number = int(input())
 	print()
 	retVal = collatz(number)
-	if retVal == 1:
-		print('Whoo Hoo, i finally got 1, don\'t know how')
 except:
 	print('Please enter a valid number')
